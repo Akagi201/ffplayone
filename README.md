@@ -1,0 +1,2 @@
+# ffplayone
+static build ffplay
