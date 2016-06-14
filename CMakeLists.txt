@@ -11,8 +11,6 @@ set(SOURCE_DIR ${CMAKE_SOURCE_DIR}/src)
 
 set(DEPS_DIR ${CMAKE_SOURCE_DIR}/deps)
 
-set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake)
-
 set(SOURCE_FILES ${SOURCE_DIR}/main.c ${SOURCE_DIR}/ffpllay.c ${SOURCE_DIR}/cmdutils.c)
 
 # Handle config options
